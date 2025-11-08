@@ -1,0 +1,7 @@
+aiogram>=3.0.0
+fastapi
+uvicorn[standard]
+python-dotenv
+requests
+aiohttp
+aiofiles
